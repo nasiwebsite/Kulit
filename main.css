@@ -1,0 +1,42 @@
+/*<![CDATA[*/
+#main .widget{border-top:0}
+.outer-post{overflow:hidden;padding:8px}
+.header_thumb{overflow:hidden;position:relative}
+.blog-posts{margin:0 -8px}
+.header_subbed{background:rgba(204,65,65,0.6);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;bottom:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
+.post-footer{padding:0!important;font-style:italic;font-size:13px}
+.main_post{overflow:hidden;text-align:center}
+.thumb_post{float:left;margin-right:25px}
+h2.entry-title{font-size:14px;line-height:1.7;margin:5px auto 0;font-weight:400;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#FFF}
+h2.entry-title a,._post-title a{color:#FFF}
+.post-body{display:block}
+.post-body p{margin:0}
+.post-footer a,.post-header a{color:#666}
+.post-footer i,.post-header i{font-size:12px;color:#666;padding-right:5px}
+.ftime .updated abbr{border:0}
+.ftime{padding:0 10px}
+._fadeover{opacity:0;visibility:hidden;position:absolute;width:100%;height:100%;color:#333;font-size:30px;background:rgba(0,0,0,0.5);top:0;left:0;text-align:center;cursor:pointer}
+._fadeover a{display:block;height:100%}
+.post:hover ._fadeover{opacity:1;visibility:visible}
+._fadeover i{color:rgba(255,255,255,0.9);position:relative;top:35%}
+._blogz ._post{border-bottom:1px solid #232323;margin-bottom:15px;padding-bottom:15px}
+._blogz ._post:last-child{border:0}
+._blogz ._post-thumb{float:left;overflow:hidden;margin-right:15px}
+._blogz h2._post-title{margin-top:0;font-size:18px}
+._blogz ._post-header>span i{padding-right:5px;font-size:12px}
+._blogz ._post-header>span{padding-right:15px}
+._blogz ._post-header>span a{color:#999}
+._blogz ._post-header{margin:10px auto;color:#999}
+._grids{margin:0 -8px}
+._grid{padding:0 8px}
+._grid ._post-thumb{overflow:hidden;margin-bottom:10px}
+._grid ._post-snippet,._grid ._comments{display:none}
+._grid ._post-item{text-align:center}
+._grid h2._post-title{line-height:1.4;font-size:16px;margin:0;height:43px;text-overflow:ellipsis;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;color:#FFF}
+._grid ._post-header>span i{display:none}
+._grid ._post-header ._date{display:block;font-size:13px;color:#999}
+._grid ._post-header{margin-top:5px}
+.status{background:rgba(0, 0, 0, 0.6);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;bottom:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
+.mytype{background:rgba(0, 122, 251, 0.8);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;top:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
+.season{background:rgba(14, 77, 95, 0.8);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;left:5px;top:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
+/*]]>*/
