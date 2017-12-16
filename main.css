@@ -3,10 +3,10 @@
 .header_thumb{overflow:hidden;position:relative}
 .blog-posts{margin:0 -8px}
 .header_subbed{background:rgba(204,65,65,0.6);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;bottom:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
-.post-footer{padding:0!important;font-style:italic;font-size:13px}
+.post-footer{background: #092429;padding:0!important;font-style:italic;font-size:13px}
 .main_post{overflow:hidden;text-align:center}
 .thumb_post{float:left;margin-right:25px}
-h2.entry-title{font-size:14px;line-height:1.7;margin:5px auto 0;font-weight:400;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#FFF}
+h2.entry-title{background: #461010;font-size:14px;line-height:1.7;margin:5px auto 0;font-weight:400;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#FFF}
 h2.entry-title a,._post-title a{color:#FFF}
 .post-body{display:block}
 .post-body p{margin:0}
