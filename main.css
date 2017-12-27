@@ -35,9 +35,9 @@ h2.entry-title a,._post-title a{color:#FFF}
 ._grid ._post-header>span i{display:none}
 ._grid ._post-header ._date{display:block;font-size:13px;color:#999}
 ._grid ._post-header{margin-top:5px}
-.status{background:rgba(0, 0, 0, 0.6);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;bottom:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
-.mytype{background:rgba(0, 122, 251, 0.8);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;top:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
-.season{background:rgba(14, 77, 95, 0.8);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;left:5px;top:5px;font-size:12px;text-transform:uppercase;font-weight:700;letter-spacing:0}
+.status{background:rgba(0, 0, 0, 0.6);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;bottom:5px;font-size:12px;font-weight:700;letter-spacing:0}
+.mytype{background:rgba(0, 122, 251, 0.8);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;right:5px;top:5px;font-size:12px;font-weight:700;letter-spacing:0}
+.season{background:rgba(14, 77, 95, 0.8);color:#fff;padding:0 10px;line-height:2;display:inline-block;position:absolute;left:5px;top:5px;font-size:12px;font-weight:700;letter-spacing:0}
 .genre{margin: 0px 10px 20px;
 background: #131313 none repeat scroll 0% 0%;
 border: 1px solid #101010;
