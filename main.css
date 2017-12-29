@@ -31,7 +31,7 @@ h2.entry-title a,._post-title a{color:#FFF}
 ._grid ._post-thumb{overflow:hidden;margin-bottom:10px}
 ._grid ._post-snippet,._grid ._comments{display:none}
 ._grid ._post-item{text-align:center}
-._grid h2._post-title{line-height:1.4;font-size:16px;margin:0;height:43px;text-overflow:ellipsis;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;color:#FFF}
+._grid h2._post-title{ */text-align: center;margin: 3px 3px 3px 3px;background: rgba(9, 36, 41, 0.64);border-radius: 3px;width: 100%;height: 20px;position: absolute;bottom: 15px;left: 15px;text-align: center;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;max-width: 130px;padding: 5px;color: #FFF;font-weight: 400;font-size: 12px;}
 ._grid ._post-header>span i{display:none}
 ._grid ._post-header ._date{display:block;font-size:13px;color:#999}
 ._grid ._post-header{margin-top:5px}
